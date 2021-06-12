@@ -1,2 +1,3 @@
-# GoogleClone
-Personal Project i did to practice html and css. 
+# Google Homepage Clone
+Personal Project i did to practice html and css.
+
